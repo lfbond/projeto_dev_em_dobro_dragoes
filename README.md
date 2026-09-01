@@ -109,4 +109,4 @@ Correções, melhorias de acessibilidade, novas informações e ajustes visuais 
 
 ## Licença
 
-Este repositório não contém um arquivo de licença no momento. Adicione uma licença ao projeto antes de distribuí-lo ou reutilizar seu código publicamente.
+Licença Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
